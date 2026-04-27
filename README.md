@@ -11,7 +11,7 @@ Este projeto une **Programação Orientada a Objetos (POO)** e **Visualização 
 - **DataViz:** Geração de gráficos de barras profissionais com `Matplotlib`.
 
 - ### Resultado Visual
-![Gráfico de Análise de Estoque por Gênero](nome_da_sua_imagem.png)
+![Gráfico de Análise de Estoque por Gênero](grafico_estoque.png)
 
 ## Tecnologias
 - **Python 3**
