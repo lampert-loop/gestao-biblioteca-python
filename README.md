@@ -10,6 +10,9 @@ Este projeto une **Programação Orientada a Objetos (POO)** e **Visualização 
 - **Agregação de Estoque:** Lógica com dicionários para somar quantidades por categoria automaticamente.
 - **DataViz:** Geração de gráficos de barras profissionais com `Matplotlib`.
 
+- ### Resultado Visual
+![Gráfico de Análise de Estoque por Gênero](nome_da_sua_imagem.png)
+
 ## Tecnologias
 - **Python 3**
 - **Matplotlib**
